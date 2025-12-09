@@ -1,1 +1,1 @@
-test
+You will need to put the fits files into data, as they were too big to upload to github
